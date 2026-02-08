@@ -16,3 +16,23 @@ Success Criteria GOALS:
 3.	Measure month-over-month sales growth using LAG()
 4.	Segment customers into quartiles based on spending using NTILE(4)
 5.	Compute three month moving average sales using AVG() OVER()
+
+Database Schema Design:
+
+SQL JOINs Implementation
+1. INNER JOIN
+<img width="1920" height="841" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/92dc2405-13e8-48e8-9549-947c732ccd0b" />
+
+3. LEFT JOIN
+
+   
+5. RIGHT JOIN
+
+   
+7. FULL OUTER JOIN
+   
+9. SELF JOIN
+   
+REFERENCES:
+W3 schools for query studying.
+youtube tutorials for github mastering.
