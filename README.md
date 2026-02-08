@@ -18,6 +18,8 @@ Success Criteria GOALS:
 5.	Compute three month moving average sales using AVG() OVER()
 
 Database Schema Design:
+ER diagram
+<img width="1920" height="820" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/88f0a561-5b17-4a47-80ed-4a609cdfe84e" />
 
 SQL JOINs Implementation
 1. INNER JOIN
