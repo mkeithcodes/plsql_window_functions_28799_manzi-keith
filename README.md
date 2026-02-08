@@ -19,6 +19,8 @@ Success Criteria GOALS:
 
 Database Schema Design:
 ER diagram
+<img width="1920" height="649" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/4c71ba30-0d8a-461c-961c-439ee1950edd" />
+<img width="1920" height="649" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/72eababf-3c69-425d-92a5-a0b708a529e9" />
 <img width="1920" height="820" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/88f0a561-5b17-4a47-80ed-4a609cdfe84e" />
 
 SQL JOINs Implementation
